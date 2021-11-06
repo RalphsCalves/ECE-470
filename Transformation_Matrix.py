@@ -14,6 +14,25 @@ def Get_MS():
     w_3 = np.array([0,1,0]).T
     w_4 = np.array([0,0,-1]).T
     w_5 = np.array([-1,0,0]).T
+    
+#==============================================
+# IF YOU WOULD LIKE TO USE (q), UNCOMMENT 
+# THIS SECTION AND COMMENT OUT THE (v) SECTION
+#==============================================    
+#     q_1 = np.array([-0.150, 0.150, 0.162]).T
+#     q_2 = np.array([-0.150, 0.270, 0.162]).T
+#     q_3 = np.array([ 0.094, 0.270, 0.162]).T
+#     q_4 = np.array([ 0.307, 0.177, 0.162]).T
+#     q_5 = np.array([ 0.307, 0.260, 0.162]).T
+#     q_6 = np.array([ 0.390, 0.260, 0.162]).T
+
+#     v_1 = np.cross(w_1, (-1*q_1))
+#     v_2 = np.cross(w_2, (-1*q_2))
+#     v_3 = np.cross(w_3, (-1*q_3))
+#     v_4 = np.cross(w_4, (-1*q_4))
+#     v_5 = np.cross(w_5, (-1*q_5))
+#     v_6 = np.cross(w_6, (-1*q_6))
+#=============================================
    
     # v (linear velocity) (
     # v = x(1),y(1),z(1) in direction of prismatic
