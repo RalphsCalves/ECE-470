@@ -21,10 +21,12 @@ Take my reference from Lab 2, which will help out a lot
     catkin_init_workspace         // makes this folder the src folder, and creates the build and devel folders in your workspace
     
 *Building the workspace. Always do in Command Terminal*
+    
     cd ~/catkin_rbalita2/
     Catkin_make					// build workspace
 
 *After compilation is complete, I can now launch ROS commands. Open Gazebo*
+    
     cd catkin_rbalita2/src/ur3_driver 	      // directs to ur3_driver folder
     Roslaunch ur3_driver ur3_gazebo.launch 	// this should open gazebo
 
@@ -33,12 +35,14 @@ Take my reference from Lab 2, which will help out a lot
 
 
 *Make your execute file executable*
+    
     Cd ~  							// cd to main
     Cd catkin_rbalita2/src/lab2andDrivers/scripts   // direct to scripts of lab
     chmod +x lab2_exec.py 					// makes the lab2_exec file executable
 
 
 *See your robot move*
+    
     Cd ~ 								  // cd to main
     Cd catkin_rbalita2/src/lab2andDrivers 		  // direct to lab folder
 
