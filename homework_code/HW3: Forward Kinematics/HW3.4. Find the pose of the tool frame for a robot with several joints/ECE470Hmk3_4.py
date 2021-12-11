@@ -7,7 +7,7 @@ import numpy as np
 # Denote the joint variables together by theta. 
 
 # ====== Enter INPUT HERE =======
-theta = [-0.47 0.09 0.46 0.57 -0.52];
+theta = np.array([[-0.47, 0.09, 0.46, 0.57, -0.52]])
 
 # =========== ANSWER ============
 # Find the pose  of frame 1 when the joint variables take the given values.
