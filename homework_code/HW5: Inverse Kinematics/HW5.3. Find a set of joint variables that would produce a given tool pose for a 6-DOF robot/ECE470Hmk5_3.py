@@ -9,8 +9,6 @@ import numpy as np
 # that would result in the given pose T_01
 
 # ====== Enter INPUT HERE =======
-import numpy as np
-
 T_1in0 = np.array([[-0.47111606, 0.50614793, -0.72240150, 4.29746050], 
                    [0.88201444, 0.27961039, -0.37930008, 8.59101424], 
                    [0.01000901, -0.81586292, -0.57815873, 1.19612907], 
