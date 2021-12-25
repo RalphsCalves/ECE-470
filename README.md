@@ -1,6 +1,6 @@
 # ECE-470
 Introduction to Robotics. Boom, lets automate someone's job.
-hi
+
 Some things to think about when taking this course:
   1. Linear Algebra is hard
   2. Python is Hard
@@ -12,18 +12,23 @@ Some things to think about for ECE 470 Robotics:
 
 # Understanding Robotics: Cheat Sheet / Course Review Sheets
 Below are all of the cheat sheets I made for each of the exams
-<details> <summary> Click for ALL NOTES </summary>
+
+## Notes
+<details> 
+    <summary> Click for ALL NOTES </summary>
   
-## Exam 1: 
-<details> <summary> <span style="color: green"> Exam 1 </span> </summary>
+    ### Exam 1: 
+    <details> <summary> <span style="color: green"> Exam 1 </span> </summary>
 
-> I know its beautiful
-</details>
+    > I know its beautiful
+    </details>
 
-## Exam 2: 
-<details> <summary> <span style="color: green"> Exam 2 </span> </summary>
+    ### Exam 2: 
+    <details> <summary> <span style="color: green"> Exam 2 </span> </summary>
 
-> I know its beautiful
+    > I know its beautiful
+    </details>
+
 </details>
 
 # Bi-Weekly Practice: Labs
