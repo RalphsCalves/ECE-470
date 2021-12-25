@@ -1,6 +1,6 @@
 # ECE-470
 Introduction to Robotics. Boom, lets automate someone's job.
-
+hi
 Some things to think about when taking this course:
   1. Linear Algebra is hard
   2. Python is Hard
