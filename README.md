@@ -15,8 +15,8 @@ Below are all of the cheat sheets I made for each of the exams
 
 ## Notes
 <details> 
-    <summary> Click for ALL NOTES </summary>
-  
+<summary> Click for ALL NOTES </summary>
+
     ### Exam 1: 
     <details> <summary> <span style="color: green"> Exam 1 </span> </summary>
 
